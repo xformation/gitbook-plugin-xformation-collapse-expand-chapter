@@ -1,0 +1,18 @@
+{
+  "name": "gitbook-plugin-xformation-collapse-expand-chapter",
+  "version": "1.0.6",
+  "description": "A plugin to create summary with collapse expand",
+  "main": "./out/index.js",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin-xormation-collapse-expand-chapter",
+    "toggle chapters"
+  ],
+  "author": "synectiks inc <support@synectiks.com>"
+}
